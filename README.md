@@ -1,0 +1,2 @@
+# createPagenationByVanillaJS
+生JSでページネーションを実装するための試行錯誤
